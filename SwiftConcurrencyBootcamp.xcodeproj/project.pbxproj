@@ -11,6 +11,10 @@
 		684E05492909103900E5ED2B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 684E05482909103900E5ED2B /* ContentView.swift */; };
 		684E054B2909103B00E5ED2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 684E054A2909103B00E5ED2B /* Assets.xcassets */; };
 		684E054E2909103B00E5ED2B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 684E054D2909103B00E5ED2B /* Preview Assets.xcassets */; };
+		684E05552909106B00E5ED2B /* DoCatchTryThrowsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 684E05542909106B00E5ED2B /* DoCatchTryThrowsBootcamp.swift */; };
+		684E05572909658C00E5ED2B /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = 684E05562909658C00E5ED2B /* DownloadImageAsync.swift */; };
+		684E0559290A0AD000E5ED2B /* AsyncAwaitBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 684E0558290A0AD000E5ED2B /* AsyncAwaitBootcamp.swift */; };
+		684E055B290A16F000E5ED2B /* TaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 684E055A290A16F000E5ED2B /* TaskBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +23,10 @@
 		684E05482909103900E5ED2B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		684E054A2909103B00E5ED2B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		684E054D2909103B00E5ED2B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		684E05542909106B00E5ED2B /* DoCatchTryThrowsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrowsBootcamp.swift; sourceTree = "<group>"; };
+		684E05562909658C00E5ED2B /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
+		684E0558290A0AD000E5ED2B /* AsyncAwaitBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitBootcamp.swift; sourceTree = "<group>"; };
+		684E055A290A16F000E5ED2B /* TaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +61,10 @@
 			children = (
 				684E05462909103900E5ED2B /* SwiftConcurrencyBootcampApp.swift */,
 				684E05482909103900E5ED2B /* ContentView.swift */,
+				684E05542909106B00E5ED2B /* DoCatchTryThrowsBootcamp.swift */,
+				684E05562909658C00E5ED2B /* DownloadImageAsync.swift */,
+				684E0558290A0AD000E5ED2B /* AsyncAwaitBootcamp.swift */,
+				684E055A290A16F000E5ED2B /* TaskBootcamp.swift */,
 				684E054A2909103B00E5ED2B /* Assets.xcassets */,
 				684E054C2909103B00E5ED2B /* Preview Content */,
 			);
@@ -137,7 +149,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				684E05572909658C00E5ED2B /* DownloadImageAsync.swift in Sources */,
+				684E05552909106B00E5ED2B /* DoCatchTryThrowsBootcamp.swift in Sources */,
 				684E05492909103900E5ED2B /* ContentView.swift in Sources */,
+				684E055B290A16F000E5ED2B /* TaskBootcamp.swift in Sources */,
+				684E0559290A0AD000E5ED2B /* AsyncAwaitBootcamp.swift in Sources */,
 				684E05472909103900E5ED2B /* SwiftConcurrencyBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
